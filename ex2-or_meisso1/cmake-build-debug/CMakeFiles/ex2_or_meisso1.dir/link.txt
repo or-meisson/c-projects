@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/ex2_or_meisso1.dir/main.c.o CMakeFiles/ex2_or_meisso1.dir/sort_bus_lines.c.o CMakeFiles/ex2_or_meisso1.dir/test_bus_lines.c.o -o ex2_or_meisso1 

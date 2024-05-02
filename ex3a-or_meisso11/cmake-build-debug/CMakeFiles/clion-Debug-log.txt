@@ -1,0 +1,13 @@
+C:\WINDOWS\system32\wsl.exe --distribution Ubuntu --exec /bin/bash -c "export CMAKE_COLOR_DIAGNOSTICS=ON && export CLION_IDE=TRUE && export JETBRAINS_IDE=TRUE && cd /mnt/c/Users/or_meiss/CLionProjects/ex3a-or_meisso11/cmake-build-debug && /usr/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G 'CodeBlocks - Unix Makefiles' -S /mnt/c/Users/or_meiss/CLionProjects/ex3a-or_meisso11 -B /mnt/c/Users/or_meiss/CLionProjects/ex3a-or_meisso11/cmake-build-debug"
+-- Configuring done
+CMake Error at CMakeLists.txt:8 (add_executable):
+  Cannot find source file:
+
+    snakes_and_ladders.c
+
+
+CMake Error at CMakeLists.txt:8 (add_executable):
+  No SOURCES given to target: ex3b_or_meisso1
+
+
+CMake Generate step failed.  Build files cannot be regenerated correctly.

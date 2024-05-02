@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/ex1_or_meisso1.dir/cipher.c.o CMakeFiles/ex1_or_meisso1.dir/main.c.o CMakeFiles/ex1_or_meisso1.dir/tests.c.o -o ex1_or_meisso1 

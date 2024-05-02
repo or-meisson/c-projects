@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/ex3a_or_meisso11.dir/linked_list.c.o CMakeFiles/ex3a_or_meisso11.dir/markov_chain.c.o CMakeFiles/ex3a_or_meisso11.dir/tweets_generator.c.o -o ex3a_or_meisso11 

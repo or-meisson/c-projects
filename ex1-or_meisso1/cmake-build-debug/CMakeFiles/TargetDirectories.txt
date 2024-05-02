@@ -1,0 +1,3 @@
+/mnt/c/Users/or_meiss/CLionProjects/c-projects/ex1-or_meisso1/cmake-build-debug/CMakeFiles/ex1_or_meisso1.dir
+/mnt/c/Users/or_meiss/CLionProjects/c-projects/ex1-or_meisso1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/c/Users/or_meiss/CLionProjects/c-projects/ex1-or_meisso1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
